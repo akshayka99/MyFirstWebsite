@@ -5,11 +5,11 @@
 }
 
 .card{
-    margin: auto;
-    place-items: center;
-	min-height: 200px;
-	border: 8px solid;
-	padding: 1rem;
+   
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
 }
 
 .btn{
