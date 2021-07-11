@@ -1,5 +1,17 @@
-#Gradient{
+.navbar{
 
     background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(red, yellow);
+  background-image: linear-gradient(to bottom right, #A117F2,#cc66ff);
+}
+
+.card{
+    margin: auto;
+    place-items: center;
+	min-height: 200px;
+	border: 8px solid;
+	padding: 1rem;
+}
+
+.btn{
+    margin: auto;
 }
