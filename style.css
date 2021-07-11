@@ -4,8 +4,23 @@
   background-image: linear-gradient(to bottom right, #A117F2,#cc66ff);
 }
 
-    
+.border{
+    border-radius: 15px 50px 30px
+
+}
 
 .btn{
     margin: auto;
 }
+
+.btn {
+    background-color: #A117F2;
+    color: white;
+    
+  }
+  .btn:hover {
+    background-color:white;
+    color: #A117F2;
+  }
+
+  
